@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+shared-data.json
+shared-data.tmp
+.env
+.git/
